@@ -37,3 +37,9 @@ It can be proven that 1 is the minimum number of changes needed to make the stri
 Input: s = "0000"
 Output: 0
 Explanation: We don't need to make any changes as the string "0000" is beautiful already.
+
+# Solution Information
+
+My answer was accepted with a Runtime of 4ms, Beats 100% and Memory of 44.68MB Beats 83.33%
+
+Reach out with any changes in implementation, questions, comments.
