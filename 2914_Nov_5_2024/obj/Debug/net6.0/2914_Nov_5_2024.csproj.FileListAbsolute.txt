@@ -1,0 +1,15 @@
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/bin/Debug/net6.0/2914_Nov_5_2024
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/bin/Debug/net6.0/2914_Nov_5_2024.deps.json
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/bin/Debug/net6.0/2914_Nov_5_2024.runtimeconfig.json
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/bin/Debug/net6.0/2914_Nov_5_2024.dll
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/bin/Debug/net6.0/2914_Nov_5_2024.pdb
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/obj/Debug/net6.0/2914_Nov_5_2024.csproj.AssemblyReference.cache
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/obj/Debug/net6.0/2914_Nov_5_2024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/obj/Debug/net6.0/2914_Nov_5_2024.AssemblyInfoInputs.cache
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/obj/Debug/net6.0/2914_Nov_5_2024.AssemblyInfo.cs
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/obj/Debug/net6.0/2914_Nov_5_2024.csproj.CoreCompileInputs.cache
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/obj/Debug/net6.0/2914_Nov_5_2024.dll
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/obj/Debug/net6.0/refint/2914_Nov_5_2024.dll
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/obj/Debug/net6.0/2914_Nov_5_2024.pdb
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/obj/Debug/net6.0/2914_Nov_5_2024.genruntimeconfig.cache
+/Users/jacobwise/Desktop/LeetCodeQuestions/2914_Nov_5_2024/obj/Debug/net6.0/ref/2914_Nov_5_2024.dll
