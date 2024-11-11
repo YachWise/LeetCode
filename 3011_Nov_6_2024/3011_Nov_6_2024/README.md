@@ -33,3 +33,16 @@ Explanation: The array is already sorted, hence we return true.
 Input: nums = [3,16,8,4,2]
 Output: false
 Explanation: It can be shown that it is not possible to sort the input array using any number of operations.
+
+# Stipulations
+
+I am reitering the stipulations for reading ease
+The array will only contain positive integers between 1 and 100
+
+1 <= nums.length <= 100
+1 <= nums[i] <= 2^8
+
+# Post Solution Thoughts
+
+honestly, this one performed fairly ass! 6ms runtime, beating 51.48% and a 49% on memory usage. :/
+I didn't really enjoy this problem, but that's not an excuse for the poor execution.
